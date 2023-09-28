@@ -18,7 +18,7 @@ all the work I have been done during _Kodołamacz Data Science PRO_ bootcamp, in
 
 3. **Python: Numpy i Matplotlib**
 - Środowisko Jupyter
-- Numpy: praca z tablicami, [ćwiczenia praktyczne](./zjazd_3_numpy/zombie)
+- Numpy: praca z tablicami, [ćwiczenia praktyczne](./zjazd3_numpy/zombie)
 - Matplotlib
 
 4. **Python: Pandas**
